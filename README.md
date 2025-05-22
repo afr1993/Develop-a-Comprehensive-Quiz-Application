@@ -13,7 +13,7 @@ A simple and responsive quiz application that fetches questions from an external
 ## 🛠️ How to Run
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/quiz-app.git
+   git clone https://github.com/afr1993/Develop-a-Comprehensive-Quiz-Application.git
    cd quiz-app
 2.Open index.html in your browser.
 
